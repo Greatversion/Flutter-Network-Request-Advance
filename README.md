@@ -1,5 +1,3 @@
-Here's a detailed documentation covering the approach to handle REST APIs in Flutter, including error handling, response management, and best practices.
-
 ---
 
 # **API Service in Flutter: A Complete Documentation**
